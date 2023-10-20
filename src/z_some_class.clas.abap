@@ -4,6 +4,9 @@ CLASS z_some_class DEFINITION
   CREATE PUBLIC .
 
   PUBLIC SECTION.
+
+  methods method_a.
+
   PROTECTED SECTION.
   PRIVATE SECTION.
 ENDCLASS.
@@ -11,4 +14,8 @@ ENDCLASS.
 
 
 CLASS z_some_class IMPLEMENTATION.
+  METHOD method_a.
+
+  ENDMETHOD.
+
 ENDCLASS.
