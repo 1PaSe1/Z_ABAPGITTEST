@@ -15,7 +15,7 @@ ENDCLASS.
 
 CLASS z_some_class IMPLEMENTATION.
   METHOD method_a.
-
+    "Hallo
   ENDMETHOD.
 
 ENDCLASS.
